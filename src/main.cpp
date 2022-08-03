@@ -1,3 +1,6 @@
+// ESP32 Weather Station
+// by Efraim Manurung
+
 #include <Arduino.h>
 
 void setup() {
