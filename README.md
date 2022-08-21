@@ -1,4 +1,4 @@
-# ESP32_WEATHER_STATION
+# EMWeatherStation
 
 Try to make WEATHER STATION using BME280.
 
